@@ -1,0 +1,15 @@
+{
+  "name": "StarterKit-Monorepo-React",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "renovate-config": {
+    "jest": {
+      "description": "jest monorepo",
+      "packageNames": [
+        "jest",
+        "babel-jest"
+      ]
+    }
+  }
+}

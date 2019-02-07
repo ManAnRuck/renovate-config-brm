@@ -1,0 +1,9 @@
+{
+    "jest": {
+        "description": "jest monorepo",
+        "packageNames": [
+            "jest",
+            "babel-jest"
+        ]
+    }
+}
