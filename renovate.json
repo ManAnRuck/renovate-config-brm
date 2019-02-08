@@ -6,6 +6,12 @@
                 "babel-jest"
             ],
             "groupName": "jest packages"
+        },
+        {
+            "packagePatterns": [
+                "^@types"
+            ],
+            "groupName": "@types packages"
         }
     ]
 }
