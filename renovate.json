@@ -5,7 +5,7 @@
                 "jest",
                 "babel-jest"
             ],
-            "groupName": "eslint packages"
+            "groupName": "jest packages"
         }
     ]
 }
