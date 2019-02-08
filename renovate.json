@@ -1,9 +1,11 @@
 {
-    "jest": {
-        "description": "jest monorepo",
-        "packageNames": [
-            "jest",
-            "babel-jest"
-        ]
-    }
+    "packageRules": [
+        {
+            "packageNames": [
+                "jest",
+                "babel-jest"
+            ],
+            "groupName": "eslint packages"
+        }
+    ]
 }
